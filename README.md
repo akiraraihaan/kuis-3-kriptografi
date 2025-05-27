@@ -29,6 +29,11 @@ Notebook tersebut mencakup:
 
 ---
 
+## **Kuis 3 - Enkripsi Algoritma DES**
+* Amanda Putri Aprilliani (105222001)
+* Ni Putu Merta Bhuana Ningsih (105222008)
+* Raihan Akira Rahmaputra (105222040)    
+
 ## Cara Menjalankan
 
 Pastikan Anda sudah memiliki **Python** dan **Jupyter Notebook** yang terinstal di sistem Anda.
@@ -48,7 +53,4 @@ jupyter notebook
 
 # 5. Jalankan sel-sel kode untuk melihat proses enkripsi, dekripsi, dan analisis hasilnya
 
-## **Kuis 3 - Enkripsi Algoritma DES**
-* Amanda Putri Aprilliani (105222001)
-* Ni Putu Merta Bhuana Ningsih (105222008)
-* Raihan Akira Rahmaputra (105222040)     
+ 
